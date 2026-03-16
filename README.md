@@ -1,5 +1,9 @@
 # ⚡ Calculadora de Consumo de Energia
 
+## 🖥️ Exemplo do Programa
+
+![preview](https://cdn-icons-png.flaticon.com/512/1048/1048940.png)
+
 Projeto simples desenvolvido em **Python** para calcular o consumo mensal de energia elétrica de um aparelho.
 
 ---
@@ -16,12 +20,11 @@ consumoMensal = (potencia × horasDia × 30) ÷ 1000
 
 ---
 
-## 💻 Tecnologias utilizadas
+## 🚀 Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![GitHub](https://img.shields.io/badge/GitHub-Repositório-black?logo=github)
-
----
+![Status](https://img.shields.io/badge/status-concluído-green)
+![Projeto](https://img.shields.io/badge/projeto-estudo-orange)
 
 ## ▶ Como executar
 
@@ -40,6 +43,14 @@ python app.py
 Aparelho: Geladeira
 Consumo estimado: 45 kWh/mês
 Custo estimado: R$ 33,75
+
+---
+
+## 👩‍💻 Autora
+
+Projeto desenvolvido por **Leila Victoria**
+
+🔗 GitHub: https://github.com/leila533
 
 ---
 
