@@ -1,9 +1,5 @@
 # ⚡ Calculadora de Consumo de Energia
 
-## 🖥️ Exemplo do Programa
-
-![preview](https://cdn-icons-png.flaticon.com/512/1048/1048940.png)
-
 Projeto simples desenvolvido em **Python** para calcular o consumo mensal de energia elétrica de um aparelho.
 
 ---
